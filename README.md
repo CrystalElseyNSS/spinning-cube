@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-git clone git@github.com:CrystalElseyNSS/three-js.git
+git clone git@github.com:CrystalElseyNSS/spinning-cube.git
 ```
 
 ```bash
